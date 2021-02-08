@@ -39,7 +39,7 @@
     "react-arrow": "^2.0.4",
     "react-dom": "^16.13.1",
     "react-ga": "^3.0.0",
-    "react-icons": "^3.11.0",
+    "react-icons": "^4.2.0",
     "react-useinterval": "^1.0.2",
     "styled-components": "^5.1.1",
     "use-debounce": "^3.4.3",
