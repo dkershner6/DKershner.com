@@ -52,7 +52,7 @@
     "@types/asana": "^0.18.1",
     "@types/jest": "^25.2.3",
     "@types/node": "^14.0.22",
-    "@types/react": "^16.9.35",
+    "@types/react": "^17.0.3",
     "@types/react-dom": "^16.9.8",
     "@types/styled-components": "^5.1.7",
     "@types/uuid": "^8.0.0",
